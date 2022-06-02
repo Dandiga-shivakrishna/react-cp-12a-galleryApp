@@ -1,0 +1,11 @@
+.img-style {
+  height: 100px;
+  width: 100px;
+}
+.img-box {
+  display: flex;
+  flex-direction: row;
+}
+.active-img-btn {
+  opacity: 0.5;
+}

@@ -1,0 +1,11 @@
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  background-size: cover;
+  padding: 50px;
+}
+.image-size {
+  height: 400px;
+  width: 400px;
+  border-radius: 20px;
+}
